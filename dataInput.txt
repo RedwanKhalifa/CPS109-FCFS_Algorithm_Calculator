@@ -1,0 +1,7 @@
+ProcessID	ArrivalTime	BurstTime #Input data in this format
+Zoom		9		10
+Chrome		3		4
+VScode		5		6
+system32	1		2
+Discord		7		8
+P1		11		12
